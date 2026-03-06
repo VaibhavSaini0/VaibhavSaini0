@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=3000&color=F7D747&center=true&vCenter=true&width=600&lines=Hi+I'm+Dhananjai+Pratap+Singh;Full-Stack+Developer+%7C+IoT+Engineer;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=32&duration=3000&color=F7D747&center=true&vCenter=true&width=600&lines=Hi+I'm+Vaibhav+Saini;Full-Stack+Developer+%7C+Engineer;Welcome+to+my+GitHub!" />
 
 ---
 
