@@ -12,14 +12,14 @@ Building scalable apps, real-time systems, and AI-powered IoT solutions.
 
 <!-- Social Badges -->
 <div>
-  <a href="mailto:dhananjaips111@gmail.com">
+  <a href="mailto:vaibhavsaini1529@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/dhananjaips">
+  <a href="https://linkedin.com/in/vaibhav-saini1529">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DhananjaiPS?tab=followers">
-    <img src="https://img.shields.io/github/followers/DhananjaiPS?style=for-the-badge&color=yellow" />
+  <a href="https://github.com/VaibhavSaini0?tab=followers">
+    <img src="https://img.shields.io/github/followers/VaibhavSaini0?style=for-the-badge&color=yellow" />
   </a>
 </div>
 
@@ -27,8 +27,6 @@ Building scalable apps, real-time systems, and AI-powered IoT solutions.
 
 ## 🔥 About Me  
 I build scalable full-stack applications with **Next.js, TypeScript, Prisma**, and modern backend systems.  
-I also work with **IoT hardware (ESP32, sensors, CV models)** to create AI-powered automation systems.
-
 ---
 
 ## 🚀 Tech Stack  
