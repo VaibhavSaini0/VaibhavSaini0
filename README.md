@@ -48,11 +48,6 @@ I also work with **IoT hardware (ESP32, sensors, CV models)** to create AI-power
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,git&theme=dark" />
 </p>
 
-### **IoT / Hardware**
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats & Activity  
