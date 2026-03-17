@@ -6,7 +6,7 @@
 ---
 
 ### ⚡ Passionate Full-Stack Developer  
-Building scalable apps, real-time system and AI powered Websites.
+Building scalable apps, real-time system and Websites.
 
 ---
 
