@@ -5,7 +5,7 @@
 
 ---
 
-### ⚡ Passionate Full-Stack Developer & IoT Engineer  
+### ⚡ Passionate Full-Stack Developer  
 Building scalable apps, real-time system and AI powered Websites.
 
 ---
