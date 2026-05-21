@@ -51,9 +51,7 @@ I build scalable full-stack applications with **Next.js, TypeScript, Prisma**, a
 ## 📊 GitHub Stats & Activity  
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <!-- Top Languages -->
-## 🔥 GitHub Streak Stats
- 
+  <!-- Top Languages --> 
 <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavSaini0&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true" />
 </div>
 
