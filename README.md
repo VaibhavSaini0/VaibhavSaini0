@@ -52,8 +52,15 @@ I build scalable full-stack applications with **Next.js, TypeScript, Prisma**, a
 
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <!-- Top Languages -->
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSaini0&theme=dark&border_radius=10" />
-    <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavSaini0&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true" />
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavSaini0&theme=dark&border_radius=10"
+    alt="GitHub Streak"
+  />
+</p>  
+<img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavSaini0&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true" />
 </div>
 
 ---
