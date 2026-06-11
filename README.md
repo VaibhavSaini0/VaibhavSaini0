@@ -59,6 +59,8 @@ I build scalable full-stack applications with **Next.js, TypeScript, Prisma**, a
 <div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <!-- Top Languages --> 
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=VaibhavSaini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=VaibhavSaini0&theme=dark&hide_border=false" />
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <!-- Top Languages --> 
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSaini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
