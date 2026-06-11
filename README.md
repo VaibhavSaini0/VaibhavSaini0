@@ -54,9 +54,14 @@ I build scalable full-stack applications with **Next.js, TypeScript, Prisma**, a
   <!-- Top Languages --> 
 <img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavSaini0&bg_color=000000&color=7ffe00&line=00adfe&point=7ffe00&area=true&hide_border=true" />
 </div>
+## 📊 GitHub Stats & Activity  
 
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
+  <!-- Top Languages --> 
+![](https://github-readme-stats.vercel.app/api?username=VaibhavSaini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VaibhavSaini0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSaini0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
 ---
 
-### ⭐ “Always building. Always learning. Always improving.”
 
 </div>
