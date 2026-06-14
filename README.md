@@ -368,7 +368,7 @@ const vaibhav: Developer = {
 <td width="35%" align="center" valign="middle">
 
 <!-- gif4.gif — Luffy running with bag, "immediate joiner / on a mission" energy -->
-<img src="./assets/gif6.gif" width="280" alt="Luffy running" />
+<img src="./assets/gif6.gif" width="240" alt="Luffy running" />
 
 </td>
 </tr>
