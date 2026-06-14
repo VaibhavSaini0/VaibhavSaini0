@@ -4,7 +4,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" justify="center>
   
 ```
 ╔══════════════════════════════════════════════════════════╗
@@ -53,7 +53,7 @@
 
 ---
 
-## `// ABOUT — $ whoami`
+## `// ABOUT — $ Who am I`
 
 ```typescript
 const vaibhav: Developer = {
