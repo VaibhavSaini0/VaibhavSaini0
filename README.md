@@ -303,7 +303,7 @@ const vaibhav: Developer = {
 
 <table>
 <tr>
-<td width="75%" valign="middle">
+<td width="70%" valign="middle">
 
 ```
 ╔═══╦════════════════════════════════════════════════════════════╦══════════╗
@@ -320,10 +320,10 @@ const vaibhav: Developer = {
 ```
 
 </td>
-<td width="25%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <!-- e.gif — Luffy Gear 5 laughing, pure celebration energy next to achievements -->
-<img src="./assets/gif4.gif" width="200" alt="Luffy Gear 5" />
+<img src="./assets/gif4.gif" width="240" alt="Luffy Gear 5" />
 
 </td>
 </tr>
