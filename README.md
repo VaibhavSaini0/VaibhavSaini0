@@ -55,6 +55,11 @@
 ## `// IDENTITY`
 <table>
 <tr>
+  <td width="30%" align="center" valign="middle">
+
+<img src="./assets/gif7.gif" width="200" alt="Luffy celebrating" />
+
+</td>
 <td width="67%" valign="middle">
 
 ```
@@ -71,11 +76,7 @@
 ```
 
 </td>
-<td width="30%" align="center" valign="middle">
 
-<img src="./assets/gif7.gif" width="200" alt="Luffy celebrating" />
-
-</td>
 </tr>
 </table>
 
@@ -117,6 +118,12 @@ const vaibhav: Developer = {
 
 <table>
 <tr>
+  <td width="30%" align="center" valign="middle">
+
+<!-- pixel-luffy.gif — Luffy attacking/dashing, fighting = battle log / experience -->
+<img src="./assets/gif5.gif" width="260" alt="Luffy fighting" />
+
+</td>
 <td width="70%" valign="top">
 
 ```
@@ -142,12 +149,7 @@ const vaibhav: Developer = {
 ```
 
 </td>
-<td width="30%" align="center" valign="middle">
 
-<!-- pixel-luffy.gif — Luffy attacking/dashing, fighting = battle log / experience -->
-<img src="./assets/gif5.gif" width="260" alt="Luffy fighting" />
-
-</td>
 </tr>
 </table>
 
