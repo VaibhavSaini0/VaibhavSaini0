@@ -2,14 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0f,30:0d1117,60:0a192f,100:0a0a0f&height=220&section=header&text=VAIBHAV%20SAINI&fontSize=65&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20ARCHITECT%20%2F%2F%20DSA%20GRINDER&descAlignY=62&descColor=7ffe00&descSize=14&stroke=00ffcc&strokeWidth=2"/>
 
-<!-- luffy.gif — serious close-up stare, first thing visitors see after the banner -->
-
 </div>
 
 <div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=700&color=00FFCC&center=true&vCenter=true&multiline=false&width=750&lines=Next.js+%7C+TypeScript+%7C+Node.js+%7C+GraphQL+%7C+PostgreSQL;Real-time+WebSocket+%E2%80%94+sub-100ms+state+sync+%E2%9A%A1;600%2B+DSA+problems+and+still+grinding+%F0%9F%94%A5;4+live+production+projects+%E2%80%94+zero+outages+%F0%9F%94%92;Building+scalable+systems+that+don't+break+at+3AM+%F0%9F%8C%99" />
 
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="middle">
 
@@ -28,13 +27,11 @@
 </td>
 <td width="35%" align="center" valign="middle">
 
-<!-- gif1.gif — Luffy celebrating fists up, "zero outages / superpower" energy -->
 <img src="./assets/gif2.gif" width="240" alt="Luffy" />
 
 </td>
 </tr>
 </table>
-
 
 </div>
 
@@ -53,20 +50,21 @@
 ---
 
 ## `// IDENTITY`
-<table>
+
+<table width="100%">
 <tr>
-<td width="67%" valign="middle">
+<td width="70%" valign="middle">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  NAME     →  Vaibhav Saini                                                   ║
-║  CLASS    →  Full Stack Developer                         ┌─────────────────┐║
-║  BASE     →  Moradabad, UP, India                         │ OPEN TO WORK    │║
-║  DEGREE   →  B.Tech CSE · Data Science Spec               │  Full-time +    │║
-║             MIT Moradabad / AKTU · 2026                   │  Internship     │║
-║  WEAPON   →  Next.js + TypeScript + GraphQL + Prisma      └─────────────────┘║
-║  KILLS    →  600+ DSA  │  4 Live Apps  │  0 Prod Outages  │  10K+ Lines TS   ║
-║  CURRENT  →  SDE Intern @ TechBuzz Ideas LLP · Apr 2026 → Present            ║
+║  NAME     →  Vaibhav Saini                                                  ║
+║  CLASS    →  Full Stack Developer                        ┌─────────────────┐║
+║  BASE     →  Moradabad, UP, India                        │ 🟢 OPEN TO WORK │║
+║  DEGREE   →  B.Tech CSE · Data Science Spec              │  Full-time +    │║
+║             MIT Moradabad / AKTU · 2026                  │  Internship     │║
+║  WEAPON   →  Next.js + TypeScript + GraphQL + Prisma     └─────────────────┘║
+║  KILLS    →  600+ DSA  │  4 Live Apps  │  0 Prod Outages  │  10K+ Lines TS  ║
+║  CURRENT  →  SDE Intern @ TechBuzz Ideas LLP · Apr 2026 → Present           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -79,12 +77,11 @@
 </tr>
 </table>
 
-
 ---
 
 ## `// ABOUT — $ Who am I`
 
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="middle">
 
@@ -105,7 +102,7 @@ const vaibhav: Developer = {
 <td width="35%" align="center" valign="middle">
 
 <!-- gif1.gif — Luffy celebrating fists up, "zero outages / superpower" energy -->
-<img src="./assets/gif1.gif" width="220" alt="Luffy celebrating" />
+<img src="./assets/gif1.gif" width="260" alt="Luffy celebrating" />
 
 </td>
 </tr>
@@ -115,9 +112,9 @@ const vaibhav: Developer = {
 
 ## `// BATTLE LOG — EXPERIENCE`
 
-<table>
+<table width="100%">
 <tr>
-<td width="70%" valign="top">
+<td width="75%" valign="top">
 
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
@@ -142,10 +139,10 @@ const vaibhav: Developer = {
 ```
 
 </td>
-<td width="30%" align="center" valign="middle">
+<td width="25%" align="center" valign="middle">
 
 <!-- pixel-luffy.gif — Luffy attacking/dashing, fighting = battle log / experience -->
-<img src="./assets/gif5.gif" width="260" alt="Luffy fighting" />
+<img src="./assets/pixel-luffy.gif" width="200" alt="Luffy fighting" />
 
 </td>
 </tr>
@@ -155,7 +152,7 @@ const vaibhav: Developer = {
 
 ## `// ARSENAL — PROJECTS`
 
-<table width="100%" align="center">
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -208,7 +205,7 @@ const vaibhav: Developer = {
 ```
 ╔════════════════════════════════════════╗
 ║  📄 PDF VIEWER APPLICATION             ║
-║  Secure Document Management System     ║
+║  Secure Document Management System    ║
 ╠════════════════════════════════════════╣
 ║  STACK ── Next.js · TypeScript         ║
 ║           GraphQL · AWS S3             ║
@@ -299,7 +296,7 @@ const vaibhav: Developer = {
 
 ## `// ACHIEVEMENTS.EXE`
 
-<table>
+<table width="100%">
 <tr>
 <td width="75%" valign="middle">
 
@@ -307,13 +304,13 @@ const vaibhav: Developer = {
 ╔═══╦════════════════════════════════════════════════════════════╦══════════╗
 ║ # ║  ACHIEVEMENT                                               ║  STATUS  ║
 ╠═══╬════════════════════════════════════════════════════════════╬══════════╣
-║ 1 ║  600+ DSA problems — LeetCode · GFG · HackerRank           ║  █████   ║
+║ 1 ║  600+ DSA problems — LeetCode · GFG · HackerRank          ║  ██████  ║
 ║ 2 ║  API latency cut ~30% @ TechBuzz Ideas LLP                 ║  ██████  ║
-║ 3 ║  Dashboard perf boosted 35% via Prisma query tuning        ║  █████   ║
-║ 4 ║  sub-100ms WebSocket sync — 50+ concurrent bidders         ║  ████    ║
-║ 5 ║  Zero production outages across all shipped projects       ║  ███     ║
-║ 6 ║  Mentored 5+ junior devs in debugging & agile workflows    ║  ████    ║
-║ 7 ║  10,000+ lines of production TypeScript shipped            ║  █████  ║
+║ 3 ║  Dashboard perf boosted 35% via Prisma query tuning        ║  ██████  ║
+║ 4 ║  sub-100ms WebSocket sync — 50+ concurrent bidders         ║  ██████  ║
+║ 5 ║  Zero production outages across all shipped projects       ║  ██████  ║
+║ 6 ║  Mentored 5+ junior devs in debugging & agile workflows    ║  ██████  ║
+║ 7 ║  10,000+ lines of production TypeScript shipped            ║  ██████  ║
 ╚═══╩════════════════════════════════════════════════════════════╩══════════╝
 ```
 
@@ -321,7 +318,7 @@ const vaibhav: Developer = {
 <td width="25%" align="center" valign="middle">
 
 <!-- e.gif — Luffy Gear 5 laughing, pure celebration energy next to achievements -->
-<img src="./assets/gif4.gif" width="200" alt="Luffy Gear 5" />
+<img src="./assets/e.gif" width="200" alt="Luffy Gear 5" />
 
 </td>
 </tr>
@@ -345,7 +342,7 @@ const vaibhav: Developer = {
 
 ## `// CONNECT — OPEN TO WORK`
 
-<table>
+<table width="100%">
 <tr>
 <td width="65%" valign="middle">
 
@@ -358,8 +355,8 @@ const vaibhav: Developer = {
 │   NOTICE   →  Immediate joiner ⚡                                            │
 │                                                                              │
 │   ✉  vaibhavsaini1529@gmail.com                                             │
-│   ⌁  linkedin.com/in/vaibhav-saini1529                                       │
-│   ◈  github.com/VaibhavSaini0                                                │
+│   ⌁  linkedin.com/in/vaibhav-saini1529                                      │
+│   ◈  github.com/VaibhavSaini0                                               │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -368,7 +365,7 @@ const vaibhav: Developer = {
 <td width="35%" align="center" valign="middle">
 
 <!-- gif4.gif — Luffy running with bag, "immediate joiner / on a mission" energy -->
-<img src="./assets/gif6.gif" width="240" alt="Luffy running" />
+<img src="./assets/gif4.gif" width="280" alt="Luffy running" />
 
 </td>
 </tr>
