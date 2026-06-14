@@ -92,7 +92,7 @@ const vaibhav: Developer = {
 <td width="35%" align="center" valign="middle">
 
 <!-- gif1.gif — Luffy celebrating fists up, "zero outages / superpower" energy -->
-<img src="./assets/gif1.gif" width="260" alt="Luffy celebrating" />
+<img src="./assets/gif1.gif" width="220" alt="Luffy celebrating" />
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ const vaibhav: Developer = {
 <td width="30%" align="center" valign="middle">
 
 <!-- pixel-luffy.gif — Luffy attacking/dashing, fighting = battle log / experience -->
-<img src="./assets/gif5.gif" width="300" alt="Luffy fighting" />
+<img src="./assets/gif5.gif" width="260" alt="Luffy fighting" />
 
 </td>
 </tr>
