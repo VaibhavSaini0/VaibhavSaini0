@@ -55,7 +55,7 @@
 ## `// IDENTITY`
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="67%" valign="middle">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -71,9 +71,9 @@
 ```
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
-<img src="./assets/gif7.gif" width="220" alt="Luffy celebrating" />
+<img src="./assets/gif7.gif" width="200" alt="Luffy celebrating" />
 
 </td>
 </tr>
