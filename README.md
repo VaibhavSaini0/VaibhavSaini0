@@ -53,6 +53,9 @@
 ---
 
 ## `// IDENTITY`
+<table>
+<tr>
+<td width="65%" valign="middle">
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -66,6 +69,16 @@
 ║  CURRENT  →  SDE Intern @ TechBuzz Ideas LLP · Apr 2026 → Present            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/gif7.gif" width="220" alt="Luffy celebrating" />
+
+</td>
+</tr>
+</table>
+
 
 ---
 
