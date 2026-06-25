@@ -389,11 +389,6 @@ const vaibhav: Developer = {
 ---
 
 <div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship+fast.+Break+nothing.+Sleep+later.&author=Vaibhav+Saini" />
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0a192f,100:0a0a0f&height=110&section=footer"/>
 
 </div>
